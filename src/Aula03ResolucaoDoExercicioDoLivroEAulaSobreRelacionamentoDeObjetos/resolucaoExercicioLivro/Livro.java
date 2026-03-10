@@ -36,6 +36,7 @@ public class Livro {
         return precoDoLivro;
     }
 
+    // Método personalizado
     public void exibirInformacoesDoLivroApenasSeOLivroEstiverDisponivel() {
         if (this.disponivel) {
             System.out.println("######## MOSTRANDO AS INFORMAÇÕES DO LIVRO ########");
