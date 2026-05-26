@@ -1,4 +1,4 @@
-package AulaPraticaSobreInterfacesEOPrincipioISP.exemploRuim;
+package Aula08SobreInterfacesEOPrincipioISP.exemploRuim;
 
 public abstract class DispositivoEletronico {
     protected abstract void ligar();

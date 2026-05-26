@@ -1,4 +1,4 @@
-package AulaPraticaSobreInterfacesEOPrincipioISP.exemploRuim;
+package Aula08SobreInterfacesEOPrincipioISP.exemploRuim;
 
 public class Iphone extends DispositivoEletronico implements Funcionalidades {
     @Override

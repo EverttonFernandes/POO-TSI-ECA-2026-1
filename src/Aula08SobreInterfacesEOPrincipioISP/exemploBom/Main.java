@@ -1,4 +1,4 @@
-package AulaPraticaSobreInterfacesEOPrincipioISP.exemploBom;
+package Aula08SobreInterfacesEOPrincipioISP.exemploBom;
 
 public class Main {
     public static void main(String[] args) {

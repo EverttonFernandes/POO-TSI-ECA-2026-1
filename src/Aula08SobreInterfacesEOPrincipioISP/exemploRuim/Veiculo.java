@@ -1,4 +1,4 @@
-package AulaPraticaSobreInterfacesEOPrincipioISP.exemploRuim;
+package Aula08SobreInterfacesEOPrincipioISP.exemploRuim;
 
 public abstract class Veiculo {
     protected abstract void acelerar();

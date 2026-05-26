@@ -1,6 +1,6 @@
-package AulaPraticaSobreInterfacesEOPrincipioISP.exemploBom;
+package Aula08SobreInterfacesEOPrincipioISP.exemploBom;
 
-import AulaPraticaSobreInterfacesEOPrincipioISP.exemploRuim.Veiculo;
+import Aula08SobreInterfacesEOPrincipioISP.exemploRuim.Veiculo;
 
 public class Corolla extends Veiculo implements TetoSolar, LigarWifi, DesligarWifi, LigarBluetooh {
 

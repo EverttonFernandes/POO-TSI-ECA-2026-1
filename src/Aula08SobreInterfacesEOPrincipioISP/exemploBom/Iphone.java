@@ -1,6 +1,6 @@
-package AulaPraticaSobreInterfacesEOPrincipioISP.exemploBom;
+package Aula08SobreInterfacesEOPrincipioISP.exemploBom;
 
-import AulaPraticaSobreInterfacesEOPrincipioISP.exemploRuim.DispositivoEletronico;
+import Aula08SobreInterfacesEOPrincipioISP.exemploRuim.DispositivoEletronico;
 
 public class Iphone extends DispositivoEletronico implements LigarBluetooh, DesligarWifi, LigarWifi, DesligarBluetooth {
     @Override
